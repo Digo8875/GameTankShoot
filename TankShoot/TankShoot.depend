@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1448822963 source:c:\users\digo\desktop\programação\gametankshoot\tankshoot\main.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448826848 c:\users\digo\desktop\programação\gametankshoot\tankshoot\bibliotecas.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1448830617 c:\users\digo\desktop\programação\gametankshoot\tankshoot\funcoes.h
+
+1448832479 source:c:\users\digo\desktop\programação\gametankshoot\tankshoot\game.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448806449 source:c:\users\digo\desktop\programação\gametankshoot\tankshoot\inicializaallegro.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448650275 c:\users\digo\desktop\programação\gametankshoot\tankshoot\inicializaallegro.h
+
+1448825496 source:c:\users\digo\desktop\programação\gametankshoot\tankshoot\inicializastructs.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448830598 source:c:\users\digo\desktop\programação\gametankshoot\tankshoot\atualizações.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448830600 source:c:\users\digo\desktop\gametankshoot\tankshoot\atualizações.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1449171411 c:\users\digo\desktop\gametankshoot\tankshoot\bibliotecas.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1448830618 c:\users\digo\desktop\gametankshoot\tankshoot\funcoes.h
+
+1449171439 source:c:\users\digo\desktop\gametankshoot\tankshoot\game.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448806450 source:c:\users\digo\desktop\gametankshoot\tankshoot\inicializaallegro.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448825498 source:c:\users\digo\desktop\gametankshoot\tankshoot\inicializastructs.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448822964 source:c:\users\digo\desktop\gametankshoot\tankshoot\main.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1449175678 source:c:\users\digo\documents\sinx\programação\gametankshoot\tankshoot\game.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1449175012 c:\users\digo\documents\sinx\programação\gametankshoot\tankshoot\bibliotecas.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1448834218 c:\users\digo\documents\sinx\programação\gametankshoot\tankshoot\funcoes.h
+
+1448810050 source:c:\users\digo\documents\sinx\programação\gametankshoot\tankshoot\inicializaallegro.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448829098 source:c:\users\digo\documents\sinx\programação\gametankshoot\tankshoot\inicializastructs.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448826564 source:c:\users\digo\documents\sinx\programação\gametankshoot\tankshoot\main.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
