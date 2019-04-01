@@ -90,3 +90,30 @@
 	"bibliotecas.h"
 	"funcoes.h"
 
+1449175678 source:c:\users\digo\documents\sinx\programação\git\gametankshoot\tankshoot\game.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1449175012 c:\users\digo\documents\sinx\programação\git\gametankshoot\tankshoot\bibliotecas.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1448834218 c:\users\digo\documents\sinx\programação\git\gametankshoot\tankshoot\funcoes.h
+
+1448810050 source:c:\users\digo\documents\sinx\programação\git\gametankshoot\tankshoot\inicializaallegro.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448829098 source:c:\users\digo\documents\sinx\programação\git\gametankshoot\tankshoot\inicializastructs.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
+1448826564 source:c:\users\digo\documents\sinx\programação\git\gametankshoot\tankshoot\main.cpp
+	"bibliotecas.h"
+	"funcoes.h"
+
